@@ -6,6 +6,10 @@ The following packages are necessary:
   3. react-navigation@2
   4. react-native-animatable
 
+Run npm install soon after pulling the branch to automaticall install the required packages.
+
+#HappyCoding
+
 
 
 
