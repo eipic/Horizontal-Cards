@@ -1,4 +1,7 @@
 # Horizontal Scroller with Modern Full Screen Cards
+
+![alt text](https://github.com/eipic/Horizontal-Cards/blob/master/preview.gif)
+
 It's pretty much straight forward. It's made on top of expo and run on both IOS and Android and uses redux to manage the app state.
 The following packages are necessary:
   1. redux
