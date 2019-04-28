@@ -23,7 +23,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "package.eipic.public"
+    },
+
+    "android": {
+      "package": "package.eipic.public"
     }
   }
 }
